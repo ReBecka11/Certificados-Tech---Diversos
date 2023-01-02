@@ -1,4 +1,4 @@
-# CURSOS - CERTIFICADOS
+# Certificados Tech - Diversos
 
 
 Repositório para alocar os certificados que venho adquirindo através de cursos na área da tecnologia. 
